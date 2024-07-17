@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Merienda:wght@300..900&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -6,6 +8,7 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  --color-text: #000;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -14,6 +17,13 @@
     --background-start-rgb: 0, 0, 0;
     --background-end-rgb: 0, 0, 0;
   }
+}
+
+.dark {
+  --foreground-rgb: 255, 255, 255!important;
+  --background-start-rgb: 0, 0, 0!important;
+  --background-end-rgb: 0, 0, 0!important;
+  --color-text: #fff!important;
 }
 
 body {
@@ -26,6 +36,48 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-image: linear-gradient(to right, rgb(0 0 0 /.75), rgb(0 0 0 /0.78)), url(/img/header.png);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  padding: 3rem;
+  gap: 3.5rem
+    /*background: linear-gradient(to right, rgba(138,87,254,1) 0%, rgba(134,99,253,1) 19%, rgba(133,105,250,1) 36%, rgba(125,127,246,1) 49%, rgba(117,152,242,1) 64%, rgba(110,175,239,1) 76%, rgba(101,199,234,1) 85%, rgba(92,221,230,1) 97%), rgba(0, 0, 0, 0.3);
+  background-blend-mode: overlay;*/
+}
+@media(min-width: 1050px){
+  .header {
+    flex-direction: row;
+    background-image: linear-gradient(to right, rgb(0 0 0 /.65), rgb(0 0 0 /0.70)), url(/img/header.png);
+  }
+}
+
+@layer components {
+  h1, h2, h3, h4 {
+    @apply font-merienda;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    color: var(--color-text);
+  }
+}
+@layer base {
+  p {
+    @apply font-josefin;
+    text-align: center;
+    white-space: pre-wrap;
+    margin: 0;
+    font-size: 1.5rem;
+    color: var(--color-text);
+  }
+}
+ 
 @layer utilities {
   .text-balance {
     text-wrap: balance;

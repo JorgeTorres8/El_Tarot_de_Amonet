@@ -1,0 +1,200 @@
+[    
+    {
+        "id": 1,
+        "name": "Lectura concreta",
+        "description": "Es una lecura concreta, es decir, que responde a una pregunta determinada que nos hace el consultante.",
+        "duration": "30 min",
+        "url": "lectura-concreta",
+        "price": "$ 7",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_1.png"
+    },
+    {
+        "id": 2,
+        "name": "Lectura general",
+        "description": "Esta es una lecura general bastante sencilla con la que explicamos el pasado, el presente y el futuro.",
+        "duration": "1 hora",
+        "url": "lectura-general",
+        "price": "$ 13",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_2.png"
+    },
+    {
+        "id": 3,
+        "name": "Lectura del ausente",
+        "description": "Esta lecura la utilizaremos para saber aquello que otras personas piensan de nosotros, qué sienten, qué quieren; la utilizaremos para ponernos en la piel de otras personas.",
+        "duration": "30 min",
+        "url": "lectura-ausente",
+        "price": "$ 15",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_3.png"
+    },
+    {
+        "id": 4,
+        "name": "Lectura del si y del no",
+        "description": "Esta lecura es para preguntas que necesitan una respuesta afirmativa o negativa, pero además nos da la información del pasado, presente y futuro respecto a la pregunta.",
+        "duration": "30 min",
+        "url": "lectura-si-no",
+        "price": "$ 7",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_4.png"
+    },
+    {
+        "id": 5,
+        "name": "Lectura de la cruz mágica",
+        "description": "Esta es una lectura muy parecida a la lectura concreta. Las cartas se disponen también en forma de cruz, pero el significado de cada una de ellas, por su situación, es distinto, y no hay significador.",
+        "duration": "1 hora",
+        "url": "lectura-cruz-magica",
+        "price": "$ 7",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_5.png"
+    },
+    {
+        "id": 6,
+        "name": "Lectura karmica",
+        "description": "Esta es una lectura que nos permite entender cuáles son los aprendizajes de nuestra vida. Nos ayuda a saber cuál es nuestro karma, cómo se manifiesta en nuestra vida, qué circunstancias debemos vivir y qué debemos aprender. nuestro propósito de vida y actuar con consecuencia.",
+        "duration": "45 min",
+        "url": "lectura-karmica",
+        "price": "$ 10",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_6.png"
+    },
+    {
+        "id": 7,
+        "name": "Lectura de las 12 casas",
+        "description": "Esta lecura está basada en las doce casas astrológicas, cada una de las cuales nos indica un aspecto diferente del consultante y de todo aquello que lo rodea. Es una de las lecuras clásicas. Nos da mucha información y como general es de las más completas.",
+        "duration": "30 min",
+        "url": "lectura-12-casas",
+        "price": "$ 25",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_7.png"
+    },
+    {
+        "id": 8,
+        "name": "Lectura de la vida",
+        "description": "Esta es una lecura general en la que utilizamos las 22 cartas de los arcanos mayores. Colocaremos las cartas en tres hileras de 7 cartas de izquierda a derecha, de manera que nos queden tres grupos: Quedan tres bloques: el de la izquierda nos hablará del pasado; el central del presente, y el de la derecha del futuro.",
+        "duration": "30 min",
+        "url": "lectura-vida",
+        "price": "$ 25",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_8.png"
+    },
+    {
+        "id": 9,
+        "name": "Lectura de los sentimientos",
+        "description": "Esta es una lectura que pregunta por los sentimientos de una pareja y en ella aparecen reflejados ambos.  Allí se puede ver lo que une a la pareja, lo que los separa, el futuro de la relación, entre otras cosas.",
+        "duration": "45 min",
+        "url": "lectura-sentimientos",
+        "price": "$ 18",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_9.png"
+    },
+    {
+        "id": 10,
+        "name": "Lectura de la compatibilidad",
+        "description": "La lecura de la compatibilidad nos habla del pasado, del presente y del futuro de ambos componentes de la pareja; de esta manera, al compararlos, podremos ver si van en la misma dirección o si hay algún desajuste que podamos detectar y del cual prevenir al consultante.",
+        "duration": "30 min",
+        "url": "lectura-compatibilidad",
+        "price": "$ 18",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_10.png  "
+    },
+    {
+        "id": 11,
+        "name": "Lectura del autoconocimiento",
+        "description": "Esta es una lectura que nos permite conocer a las personas que nos rodean. Y conocernos mejor a nosotros mismos.",
+        "duration": "30 min",
+        "url": "lectura-autoconocimiento",
+        "price": "$ 11",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_11.png"
+    },
+    {
+        "id": 12,
+        "name": "Lectura de las 13 cartas",
+        "description": "En esta lectura vemos un poco el pasado de la persona, mirando el presente vemos lo que tiene en contra, lo que en estos momentos lleva bien que son sus potenciales y lo que lleva mal que son sus obstáculos. También podemos ver la tendencia de futuro a medio y largo plazo.",
+        "duration": "1 hora",
+        "url": "lectura-13-cartas",
+        "price": "$ 18",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_12.png"
+    },
+    {
+        "id": 13,
+        "name": "Lectura de la cruz celta",
+        "description": "Es una lecura general en la que, además de ver pasado, presente y futuro, sabremos cómo nos vemos a nosotros mismos, la influencia de nuestro entorno y nuestras emociones internas.",
+        "duration": "30 min",
+        "url": "lectura-cruz-celta",
+        "price": "$ 13",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_13.png"
+    },
+    {
+        "id": 14,
+        "name": "Lectura de la hechicería",
+        "description": "Esta lectura es para preguntas que necesitan una respuesta afirmativa o negativa, pero además nos da la información de cómo puede protegerse el consultante, así como también quien está interesado en hacerme una magia. Nos indica la evolución y un consejo.",
+        "duration": "1 hora",
+        "url": "lectura-hechiceria",
+        "price": "$ 10",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_14.png"
+    },
+    {
+        "id": 15,
+        "name": "Lectura del embarazo",
+        "description": "Esta lectura nos indica si la consultante tiene probabilidades de ser madre, o si ya está embarazada, nos indica el curso del embarazo, la salud, como será el parto y nos hablará de la salud del bebé.",
+        "duration": "45 min",
+        "url": "lectura-embarazo",
+        "price": "$ 10",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_15.png"
+    },
+    {
+        "id": 16,
+        "name": "Lectura de la salud",
+        "description": "Esta lectura nos indica como se encuentra el consultante actualmente, su salud en el pasado, sus debilidades y fortalezas, temas de salud que aún no salen a la luz y el consejo del tarot.",
+        "duration": "30 min",
+        "url": "lectura-salud",
+        "price": "$ 15",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_16.png"
+    },
+    {
+        "id": 17,
+        "name": "Lectura de la infidelidad",
+        "description": "Esta es una lectura que donde vemos los sentimientos reflejados de una pareja. Allí se puede ver lo que los une y lo que los separa, el futuro de la relación y si existe un tercero.",
+        "duration": "30 min",
+        "url": "lectura-infidelidad",
+        "price": "$ 15",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_17.png"
+    },
+    {
+        "id": 18,
+        "name": "Lectura de la pareja",
+        "description": "Esta es una lectura que pregunta por los sentimientos de una pareja y en ella aparecen reflejados ambos. Allí se puede ver lo que une a la pareja, lo que los separa, el futuro de la relación.",
+        "duration": "45 min",
+        "url": "lectura-pareja",
+        "price": "$ 15",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_18.png"
+    },
+    {
+        "id": 19,
+        "name": "Lectura de la boda o convivencia",
+        "description": "Esta es una lectura que permite visualizar la compatibilidad de la pareja, los que ambos traen de su pasado, lo que aprenderá el uno del otro, la evolución de la convivencia desde el primer año hasta el séptimo y la lección o consejo para ambos.",
+        "duration": "45 min",
+        "url": "lectura-convivencia",
+        "price": "19",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_19.png"
+    },
+    {
+        "id": 20,
+        "name": "Lectura del sexo en pareja",
+        "description": "Esta es una lectura que permite analizar el comportamiento sexual de la pareja consciente e inconscientemente, así como también consejos que permitirán reanimar la llama de la pasión.",
+        "duration": "30 min",
+        "url": "lectura-sexo",
+        "price": "$ 10",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_20.png"
+    },
+    {
+        "id": 21,
+        "name": "Lectura del mes/dia/semana",
+        "description": "Esta es una lectura que nos va a indicar los retos, obstáculos y recursos que se nos presentaran, analizar los puntos más importantes y el consejo del tarot.",
+        "duration": "1 hora",
+        "url": "lectura-fecha",
+        "price": "21",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_21.png"
+    },
+    {
+        "id": 22,
+        "name": "Lectura para saber si la persona es para mi",
+        "description": "Esta es una lectura que nos indica los obstáculos que existen entre la persona y el consultante, como se sienten el uno respecto al otro, la situación y la respuesta y consejo para saber si es para ti o no.",
+        "duration": "30 min",
+        "url": "lectura-persona",
+        "price": "$ 8",
+        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1721253193/TarotAmonet/lista_22.png"
+    }
+]
